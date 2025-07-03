@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+img {
+    height: 200px;
+    width: 150px;
+    
+}
+
+div {
+    border: solid, white;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: orangered;
+}
