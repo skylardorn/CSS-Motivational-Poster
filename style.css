@@ -12,6 +12,9 @@ div {
     border: solid, white;
     color: white;
     text-align: center;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 25%;
 }
 
 h1 {
